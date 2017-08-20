@@ -21,6 +21,9 @@ public class MainActivity extends AppCompatActivity {
 		params.setBehavior(behavior);
 
 
+		/**
+		 * 滑动删除
+		 */
 	}
 
 	private SwipeDismissBehavior.OnDismissListener listener = new SwipeDismissBehavior.OnDismissListener() {
